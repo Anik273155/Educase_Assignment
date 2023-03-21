@@ -1,0 +1,36 @@
+
+ *::selection{
+   background-color: rgb(38, 165, 154); 
+  text-decoration: none;
+  color:white;
+  border-radius:10px;
+ }
+ 
+ .innerDiv{
+  display:flex;
+  justify-content:center;
+ 
+ 
+}
+.navlink a {
+   
+  padding-left:50px;
+}
+body {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* margin-top: 5%; */
+  background-color: white;
+}
+
+.innerAppBox{
+  margin:34px;
+  width:270px;
+  border:1px solid rgb(155, 153, 153);
+  height:550px;
+ box-shadow:0 1px 3px grey ;
+ /* margin-bottom:6px; */
+}
+

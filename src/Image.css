@@ -1,0 +1,14 @@
+.imgSection{
+    /* margin-top: 10px; */
+    margin:10px auto;;
+    width:90px;
+    height:90px;
+    display:flex;
+   
+    justify-content: center;
+}
+
+.imgSection img{
+    width:100px;
+    height:100px;
+}

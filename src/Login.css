@@ -1,0 +1,27 @@
+
+.Login{
+     
+    display:flex;
+    justify-content: space-around;
+    margin-top:0px;
+   
+}
+
+.loginBox{
+    
+     margin-top:10px; 
+margin-bottom: 0px;
+    border-bottom: 3px solid deeppink;
+}
+.loginText{
+    
+padding:0px 35px;
+    
+}
+
+
+
+.signup{
+    margin-top:10px; 
+font-size: larger;
+}

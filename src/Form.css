@@ -1,0 +1,41 @@
+
+.form {
+    margin-top:20px;
+}
+
+.email{
+pointer-events: none;
+margin:10px auto;
+border:1px solid black;
+border-radius: 20px;
+padding-left:10px;
+}
+.password{
+    pointer-events: none;
+    margin:10px auto; 
+    border:1px solid black;
+    border-radius: 20px;
+     padding-left:10px; 
+}
+.button{
+    width:190px;
+    margin-top:5px;
+    border:1px solid black;
+    border-radius: 20px;
+    color:white;
+    background-color:deeppink ;
+}
+.forgotPassword{
+    color:deeppink;
+    display:flex;
+    justify-content:end;
+    margin-right: 30px;
+    margin-top:5px;
+    font-size:13px;
+}
+.para{
+    color:rgb(146, 146, 146);
+    margin-top:3px;
+    font-size:13px;
+
+}
